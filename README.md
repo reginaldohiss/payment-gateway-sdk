@@ -1,7 +1,7 @@
 # Payment Gateway SDK
 
-[![GitHub release](https://img.shields.io/github/v/release/reginaldohiss/payment-gateway-sdk)](https://github.com/seu-usuario/payment-gateway-sdk/releases)
-[![Packagist Version](https://img.shields.io/packagist/v/reginaldohiss/payment-gateway-sdk)](https://packagist.org/packages/seu-usuario/payment-gateway-sdk)
+[![GitHub release](https://img.shields.io/github/v/release/reginaldohiss/payment-gateway-sdk)](https://github.com/reginaldohiss/payment-gateway-sdk/releases)
+[![Packagist Version](https://img.shields.io/packagist/v/reginaldohiss/payment-gateway-sdk)](https://packagist.org/packages/reginaldohiss/payment-gateway-sdk)
 
 🚀 **Payment Gateway SDK** é uma biblioteca PHP para integração com **múltiplos provedores de pagamento**, permitindo o uso de **Pix, Boleto e Cartão de Crédito**.
 
