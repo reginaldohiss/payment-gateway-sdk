@@ -1,0 +1,41 @@
+# Dependências do Composer (não devem ser versionadas)
+vendor/
+
+# Dependências do Node.js (caso use npm/yarn para build)
+node_modules/
+
+# Arquivos de configuração sensíveis
+.env
+.env.local
+.env.*.local
+
+# Arquivos do sistema operacional (macOS e Linux)
+.DS_Store
+Thumbs.db
+
+# Logs e arquivos temporários
+payment_gateway.log
+*.log
+logs/
+storage/logs/
+debug.log
+
+# Cache e arquivos temporários do PHP
+*.cache
+*.phpunit.result.cache
+.cache/
+.idea/
+.phpunit.cache/
+phpunit.xml.cache
+
+# Arquivos de build (caso use)
+build/
+dist/
+
+# Configurações do IDE (exemplo: PHPStorm, VSCode)
+.vscode/
+.idea/
+
+# Arquivos do PHPUnit gerados automaticamente
+phpunit.xml
+coverage.xml
